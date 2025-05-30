@@ -14,3 +14,4 @@ div{display: inline-block; text-align: left; margin-left: 30px;}
 img{height: 200px;}
 li{list-style-type: square; font-size: medium; margin-left: 20px; display: inline-block; text-align: center ;width: 22%;}
 p{line-height: 1.5; width: 50%; display:block; font-size: large; text-align: left;}
+a:link{text-decoration: none;}
